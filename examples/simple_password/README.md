@@ -1,0 +1,1 @@
+Example of toy module usage
